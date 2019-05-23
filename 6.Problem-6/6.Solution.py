@@ -1,0 +1,5 @@
+numbers = input()
+lists = numbers.split(",")
+tuples = tuple(lists)
+print(numbers)
+print(tuples)
